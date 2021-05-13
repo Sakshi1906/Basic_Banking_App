@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banking System</string>
+    <string name="banking_system">BANKING SYSTEM</string>
+    <string name="presented_by">Presented By:</string>
+    <string name="sakshi_kumari">Sakshi Kumari</string>
+    <string name="view_users_list">View Users List</string>
+</resources>
